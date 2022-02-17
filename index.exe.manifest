@@ -1,0 +1,21 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+<security>
+<requestedPrivileges>
+<requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel>
+</requestedPrivileges>
+</security>
+</trustInfo>
+<dependency><dependentAssembly><assemblyIdentity type="win32" name="vbsedit64" version="9.6.23.7" /></dependentAssembly></dependency>
+<application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings>
+<dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+</windowsSettings></application>
+</assembly>
+<!--BEGIN_VBSEDIT_DATA
+PHJvb3Q+DQo8c2NyaXB0bmFtZT5pbmRleC5odG1sPC9zY3JpcHRuYW1lPg0KPGFw
+cG5hbWU+Q29sdWNBcHBzIFZlcnNpw7NuIDA1IC0gMjAyMTwvYXBwbmFtZT4NCjxo
+dG1sYXBwbGljYXRpb25ibG9jaz5ib2R5Jmd0OzwvaHRtbGFwcGxpY2F0aW9uYmxv
+Y2s+DQo8b2xkaHRhYmxvY2s+Ym9keSZndDs8L29sZGh0YWJsb2NrPg0KPHBpZD5w
+RHZBU1plR0ZDbk82Smk1dktQQ0NtNnBzWVZ5RWZ3SnF3cGE1a0RFM2paMXR2VkhP
+MDRnNG51b2FWeXUyTWxGPC9waWQ+DQo8L3Jvb3Q+DQoA
+END_VBSEDIT_DATA-->

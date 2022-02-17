@@ -1,0 +1,34 @@
+<msi>
+    <targetFolder>D:\app_escuela\index_msi</targetFolder>
+    <version>1.0.0.2</version>
+    <description>ColucApps 11v5</description>
+    <productName>ColucApps 11v5</productName>
+    <manufacturer>Daniel Naranjo</manufacturer>
+    <scope>perUser</scope>
+    <upgradeCode>{6F3BD8EB-7F51-45B5-A702-A416C35587C6}</upgradeCode>
+    <desktopShortcut>yes</desktopShortcut>
+    <startmenuShortcut>yes</startmenuShortcut>
+    <dependencies>
+        <dependency>404r.html</dependency>
+        <dependency>artistica.html</dependency>
+        <dependency>cep.html</dependency>
+        <dependency>edufisica.html</dependency>
+        <dependency>etica.html</dependency>
+        <dependency>filosofia.html</dependency>
+        <dependency>fisica.html</dependency>
+        <dependency>index.dll</dependency>
+        <dependency>index.exe.manifest</dependency>
+        <dependency>index.html</dependency>
+        <dependency>infortec.html</dependency>
+        <dependency>ingles.html</dependency>
+        <dependency>lenguaje.html</dependency>
+        <dependency>logo.png</dependency>
+        <dependency>logo11.png</dependency>
+        <dependency>matematicas.html</dependency>
+        <dependency>modalidad.html</dependency>
+        <dependency>naturales.html</dependency>
+        <dependency>quimica.html</dependency>
+        <dependency>religion.html</dependency>
+        <dependency>sociales.html</dependency>
+    </dependencies>
+</msi>
